@@ -54,10 +54,12 @@ De forma complementaria se utilizarán
 - `A_base_datos_original_EVA.xlsx`
 - `B_preparacion_datos_EVA.ipynb`
 - `C_reporte_ydata_EVA.html`
-- `D_modelamiento_EVA.ipynb`
-- `E_modelo_final_EVA.pkl`
-- `F_app.py`
-- `G_requirements.txt`
+- `app.py`
+- `datos_referencia.joblib`
+- `minmax_scaler.joblib`
+- `modelo_mlp.joblib`
+- `onehot_encoder.joblib`
+- `requirements.txt`
 
 ## Objetivo final
 
