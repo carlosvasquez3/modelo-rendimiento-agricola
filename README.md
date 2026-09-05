@@ -14,7 +14,7 @@ Las variables utilizadas para el modelamiento son
 
 - Departamento
 - Grupo cultivo
-- Periodo
+- Tipo periodo
 - Rendimiento
 
 La variable Rendimiento corresponde a la variable objetivo.
