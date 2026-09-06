@@ -52,7 +52,7 @@ De forma complementaria se utilizarán
 ## Estructura del proyecto
 
 - `A_base_datos_original_EVA.xlsx`
-- `B_preparacion_datos_EVA.ipynb`
+- `B_proyecto_integrador_EVA.ipynb`
 - `C_reporte_ydata_EVA.html`
 - `app.py`
 - `datos_referencia.joblib`
